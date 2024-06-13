@@ -1,7 +1,7 @@
 # face-Encryption via AES encryption
 Face encryption is a technique that prevents unauthorized applications from using face recognition to identify users.
 
-for encryption we use AES method cheak https://github.com/alirezadori/AES_Encryption for source code for AES.
+for encryption we use AES method cheak https://github.com/alirezadori/AES_Encryption for AES source code.
 
 this code will use a 16 bytes key which will expand to size of face (in the Picture) for expansion we use a methode just like AES Key Expansion with a small difference which will be Hard to find keys witout source Code.
 
