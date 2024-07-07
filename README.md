@@ -7,6 +7,6 @@ this code will use a 16 bytes key which will expand to size of faces (in the Pic
 
 finally you can decrypt your Image with your key.
 
-for encryption use MainFaceEncryptor.m AND and MainFaceDecryptor.m will encrypt your Image.
+for encryption use MainFaceEncryptor.m AND and MainFaceDecryptor.m will Decrypt your Image.
 
 the point of this project is you can cipher multi Faces in Image with one 16 bytes Key and decrypt it with the same Key without any more Data.
